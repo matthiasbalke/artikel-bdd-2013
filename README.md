@@ -2,7 +2,7 @@ BDD Artikel 2013
 ================
 [![Build Status](https://travis-ci.org/matthiasbalke/artikel-bdd-2013.png?branch=master)](https://travis-ci.org/matthiasbalke/artikel-bdd-2013)
 
-Example project for a article with the topic Behavior Driven Development by Matthias Balke und Sebastian Laag.
+Example project for the article "Behavior Driven Development" by Matthias Balke und Sebastian Laag.
 
 Created by: [Matthias Balke](mailto:matthias.balke@adesso.de) and [Sebastian Laag](mailto:sebastian.laag@adesso.de)
 
