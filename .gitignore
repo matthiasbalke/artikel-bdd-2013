@@ -1,0 +1,17 @@
+# Eclipse Project Files #
+.classpath
+.project
+.settings
+
+# IntelliJ Project Files #
+.idea
+.iml
+
+# Build Output #
+target
+
+# Mac OS X #
+.DS_Store
+
+# Windows #
+Thumbs.db
