@@ -23,8 +23,7 @@ To run them from within Eclipse execute the *\*Stories* files located in *src/te
 
 Note: Some systems like Windows or Mac OS X have an default file encoding other than UTF-8. On this systems the execution from command line may fail. This can be fixed by changing the default file encoding temporarily. For Windows system check out the runTests.bat:
 *Windows:*
-```
-#!bat
+```bat
 :: set the file encoding temporarily to UTF-8
 set JAVA_TOOL_OPTIONS="-Dfile.encoding=UTF8"
 :: and execute the tests
@@ -32,8 +31,7 @@ mvn clean integration-test
 ```
 
 *Mac OS X/Linux/Unix:*
-```
-#!bash
+```bash
 #!/bin/bash
 # sets the default platform encoding temporary to utf-8
 export JAVA_TOOL_OPTIONS="-Dfile.encoding=UTF8"
