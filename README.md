@@ -20,6 +20,7 @@ mvn clean integration-test
 To run them from within Eclipse execute the *\*Stories* files located in *src/test/java*. The method *stepsFactory()* defines which tests will be executed.
 
 Note: Some systems like Windows or Mac OS X have an default file encoding other than UTF-8. On this systems the execution from command line may fail. This can be fixed by changing the default file encoding temporarily. For Windows system check out the runTests.bat:
+
 *Windows:*
 ```bat
 :: set the file encoding temporarily to UTF-8
